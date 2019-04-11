@@ -90,6 +90,6 @@ class Hand{
      * @postconditoin Cards are grouped by value first . Then by suits.
      */
     public void sortByValue(){
-        
+
     }
 }
