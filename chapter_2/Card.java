@@ -1,3 +1,4 @@
+package Game;
 /**
  * This class represent a card in a suit
  * Card's value is represented by numbers.

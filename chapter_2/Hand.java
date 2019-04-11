@@ -1,3 +1,4 @@
+package Game;
 class Hand{
     /**
      * Constructor: creates an empty hand class
